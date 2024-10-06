@@ -17,10 +17,12 @@ cd Emma-0.4v
 git clone https://huggingface.co/Xerror/XTTS-v2
 ```
 
-## Create a virtual environment.
+## Create a virtual environment, activate it and find the path of the python exe to select the intepreter.
 4.
 ```bash
 & "D:\Private Server\Apps\PYTHON VERSIONS\python310\python.exe" -m venv venv
+venv/Scripts/Activate
+Resolve-Path .\venv\Scripts\python.exe
 ```
 
 ## Install the requirements.
