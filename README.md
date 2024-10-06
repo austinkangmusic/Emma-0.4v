@@ -8,7 +8,7 @@ git clone https://github.com/austinkangmusic/Emma-0.4v.git
 ## cd to Emma-0.4v directory.
 2.
 ```bash
-cd Emma-0.2v
+cd Emma-0.4v
 ```
 
 ## Download the XTTS-v2 model.
