@@ -2,10 +2,10 @@
 Get the folders.
 1.
 ```bash
-git clone https://github.com/austinkangmusic/Emma-0.2v.git
+git clone https://github.com/austinkangmusic/Emma-0.4v.git
 ```
 
-## cd to Emma-0.2v directory.
+## cd to Emma-0.4v directory.
 2.
 ```bash
 cd Emma-0.2v
@@ -14,7 +14,7 @@ cd Emma-0.2v
 ## Download the XTTS-v2 model.
 3.
 ```bash
-git clone https://huggingface.co/coqui/XTTS-v2
+git clone https://huggingface.co/Xerror/XTTS-v2
 ```
 
 ## Create a virtual environment.
@@ -32,6 +32,6 @@ pip install -r requirements.txt
 ## Run.
 6.
 ```bash
-python emma.interrupt.py
+python main.py
 ```
 
